@@ -1,0 +1,71 @@
+.parkchester {
+    background-image: url("parkchester.jpg");
+    background-color: black;
+    /* Full height */
+  height: 100vh;
+
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+    background-size: cover; }
+
+#home {
+    text-align: center;
+    color: #white;
+    font-family: 'Rubik Iso', cursive;
+    margin-top: 200px;
+    font-size: 60px;
+    padding: 3px;
+    outline-style: solid;
+    outline-color: #FFD700;
+    outline-width: 2px;
+    background-color: #C0C0C0;
+    margin-top: 200px;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+}
+#essay{
+  text-align: center;
+  background-color: #C0C0C0;
+  letter-spacing: 5px;
+  border-style: solid;
+  border-color: 	#FFD700;
+  border-width: 5px;
+
+}
+
+p{
+  text-align: center;
+}
+#culture{
+  text-align: center;
+  letter-spacing: 5px;
+  background-color:#C0C0C0 ;
+  letter-spacing: 5px;
+  border-style: solid;
+  border-color: 	#FFD700;
+  border-width: 5px;
+
+}
+div.gallery {
+  margin: 33px;
+  float: left;
+  vertical-align: middle;
+  text-align: center;
+}
+
+div.desc {
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
